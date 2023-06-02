@@ -16,7 +16,7 @@
     <repository>
       <id>github</id>
       <name>GitHub Packages</name>
-      <url>https://maven.pkg.github.com/naonWae12/minggu13.2</url>
+      <url>https://maven.pkg.github.com/NaonWae12/minggu13.2</url>
     </repository>
   </distributionManagement>
   
